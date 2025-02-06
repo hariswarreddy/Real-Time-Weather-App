@@ -1,7 +1,4 @@
 # Real-Time Weather App
-A modern Real-Time Weather App that fetches and displays accurate weather data for any location worldwide. It features a sleek interface with dynamic weather updates, current temperature, time, weather conditions, and a search bar for user input.
-
-# Real-Time Weather App
 
 ## Overview
 The Real-Time Weather App is a web application that fetches and displays live weather information for any location. It uses the WeatherAPI to provide accurate weather details such as temperature, conditions, and local time. The app is fully responsive and user-friendly, making it a perfect tool to stay updated with weather conditions.
